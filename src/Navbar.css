@@ -1,0 +1,30 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.home {
+  padding: 2px;
+  margin: 10px auto;
+}
+
+.about {
+  padding: 2px;
+  margin: 10px auto;
+}
+
+.blogs {
+  padding: 2px;
+  margin: 10px auto;
+  margin-right: 18vw;
+}
+
+.login {
+  padding: 2px;
+  margin: 10px auto;
+}
+
+.signup {
+  padding: 2px;
+  margin: 10px auto;
+}
